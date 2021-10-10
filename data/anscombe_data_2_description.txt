@@ -1,0 +1,11 @@
+Contrived data set 2 constructed to showcase the limitations in linear regression. 
+
+Source:
+Anscombe, F. J. (1973). Graphs in statistical analysis. American Statistician, vol. 27, Pages 17–22.
+
+Variables/Columns
+
+The first column denotes the predictor variable X
+
+The second column denotes the response variable Y
+
