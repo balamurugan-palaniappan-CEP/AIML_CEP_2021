@@ -1,0 +1,27 @@
+Dataset: challenger.dat
+
+
+
+Source: S.R. Dalal, E.B. Fowlkes, B. Hoadley (1989). "Risk
+
+Analysis of the Space Shuttle: Pre-Challenger Prediction of Failure,"
+
+Journal of the American Statistical Association, Vol. 84, #408, pp. 945-957.
+
+
+
+Description: Temperature and Failure of field-joint O-Ring failures
+
+for 23 pre-Challenger space shuttle flights.
+
+
+
+Variables/Columns
+
+Flight sequence number  7-8
+
+Temperature      15-16
+
+# O-Ring Field joints with erosion or blowby   24
+
+Indicator of erosion or blowby    32
